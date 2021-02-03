@@ -1,0 +1,7 @@
+{
+  "name": "groupdynamics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
